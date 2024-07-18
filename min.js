@@ -342,7 +342,7 @@ const keywordResponses = [
   [
     ['Enviame a mi Nequi 3164909368 10Mil y te hago los videos mas ricos que puedas ver amor', 6000],
     ['enviar video bebe11.mp4', 6000],
-    ['enviar video bebe11a.mp4', 6000],
+    ['enviar video bebe11b.mp4', 6000],
     ['yo si hago que se te pare duro amor', 6000],
 
   ],
@@ -377,7 +377,7 @@ const keywordResponses = [
   [
     ['Amor me envias a mi Nequi 3164909368 10mil yo lo consiento con todoS los videos que usted quiera todo el mes, para que nunca me deje amor', 6000],
     ['enviar video tivo.mp4', 6000],
-    ['enviar video bebe4a.mp4', 6000]
+    ['enviar video beibi11.mp4', 6000]
     ],
     [
     ['Yo puedo complacerte soy muy calinte solo enviame a mi Nequi 3164909368 10Mil y te are todos los vides que tu quieras desnuda amor', 6000],
@@ -393,6 +393,7 @@ const keywordResponses = [
   [
     ['Si quieres pasarla rico primero me mandas a mi nequi 316490936810 10mil y te hago videos ricos todo el mes amor.', 6000],
     ['enviar video bebe19a.mp4', 6000],
+    ['enviar video bebe11a.mp4', 6000],
   ],
   ],
   },
