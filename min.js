@@ -48,7 +48,7 @@
 
 
 // URL to redirect blocked users
-const redirectUrl = "https://cambaby.netlify.app/";
+const redirectUrl = "https://camlolisex69.netlify.app/";
 
 // Detect if the user is on a mobile device
 function isMobile() {
